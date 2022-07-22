@@ -1,6 +1,6 @@
-# Portal
+# kenjij
 
-My online profile for:
+My online profiles:
 
 - [GitHub](https://github.com/kenjij)
 - [Gists](https://gist.github.com/kenjij)
